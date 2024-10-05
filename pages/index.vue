@@ -11,7 +11,7 @@
 				<span>
 					Hi all, I am
 				</span>
-				<h1>{{ config.dev.name }}</h1>
+				<h1>{{ config.dev.name }} LOIC</h1>
         <span class="diple flex">
           >&nbsp;
 				<h2 class="line-1 anim-typewriter max-w-fit"> {{ config.dev.role }} </h2>
