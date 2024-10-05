@@ -56,5 +56,3 @@ coverage/
 .DS_Store
 Thumbs.db
 
-# Tailwind
-tailwind.config.js
